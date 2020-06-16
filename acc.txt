@@ -1,8 +1,1 @@
-user:pass
-user:pass
-user:pass
-user:pass
-user:pass
-user:pass
-user:pass
-user:pass
+mn6c:ahmed$alabdouli
